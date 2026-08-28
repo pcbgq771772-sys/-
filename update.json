@@ -2,13 +2,9 @@
   "version": "1.0",
   "auth_list": [
     {
-      "device_id": "de7qwGQL5hJ",
-      "secret_key": "100041"
-    },
-    {
-      "device_id": "6990Qer984GG",
-      "secret_key": "100012"
+      "device_id": "c3c3934b3bc1374b"
     }
   ]
 }
+
 
